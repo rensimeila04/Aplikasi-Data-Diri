@@ -35,7 +35,7 @@ menggunakan bahasa pemrograman java
 ![Alt Text](https://github.com/rensimeila04/Aplikasi-Data-Diri/blob/master/tugas/5.PNG)
 
 # ¤¸¸.•´¯`•¸¸.•..>> 𝓗𝓪𝓼𝓲𝓵 𝓡𝓾𝓷 <<..•.¸¸•´¯`•.¸¸¤
-![Alt Text](https://github.com/rensimeila04/Aplikasi-Data-Diri/blob/master/tugas/8.PNG)
+![Alt Text](https://github.com/rensimeila04/Aplikasi-Data-Diri/blob/master/tugas/8.jpg)
 
 Gambar diatas merupakan hasil Run atau keluaran program.
 
